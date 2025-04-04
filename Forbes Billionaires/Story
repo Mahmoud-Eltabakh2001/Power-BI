@@ -1,0 +1,90 @@
+# Story of Forbes Billionaires 2022 Project using Power BI
+
+Introduction:
+
+In the world of business and wealth, Forbes' list of billionaires is one of the most famous and influential lists.
+In this project, we used Power BI to analyze the data from Forbes' list of billionaires for the year 2022. 
+The goal of this project is to provide a comprehensive overview of the distribution of billionaires by gender, age, wealth, and various industries.
+
+
+KPI Analysis:
+
+
+- #Billionaires analysis
+
+Overall #Billionaires is currently at 2668. #Billionaires for countryOfCitizenship United States and other segments are significantly higher than others.
+
+
+- #MaleB analysis
+
+Overall #MaleB is currently at 2341. #MaleB for countryOfCitizenship United States and other segments are significantly higher than others.
+
+
+- #MaleB% analysis
+
+Overall #MaleB% is currently at 87.7%. #MaleB% for category Telecom is significantly higher than other segments, and #MaleB% for age 26 and 30 and other segments is significantly lower
+
+
+- #FemaleB analysis
+
+Overall #FemaleB is currently at 311. #FemaleB for the country United States and other segments are significantly higher than others.
+
+
+- AvgAge analysis
+
+Overall AvgAge is currently at 64.21. 9 segments have significantly lower AvgAge than others, and 12 segments have significantly higher AvgAge
+
+
+- TotalWealth
+
+Overall TotalWealth is currently $12.7 trillion, most of it in the United States and Europe
+
+
+
+Cards:
+
+- Number of Billionaires: Displays the total number of billionaires on the list.
+
+- Number of Males: Displays the number of males on the list.
+
+- Percentage of Males: Displays the percentage of males relative to the total number of billionaires.
+
+- Number of Females: Displays the number of females on the list.
+
+- Percentage of Females: Displays the percentage of females relative to the total number of billionaires.
+
+- Average Age: Displays the average age of billionaires on the list.
+
+- Total Wealth: Displays the total wealth of billionaires on the list.
+
+
+
+Visualizations:
+
+- Top 10 Billionaires by Rank: This bar chart displays the names of the top 10 billionaires by rank.
+
+- Top 10 Billionaires by Wealth: This bar chart displays the names of the top 10 billionaires by wealth.
+
+- Total Wealth by Gender: This pie chart displays the total wealth by gender.
+
+- Number of Philanthropic Billionaires: This pie chart displays the number of philanthropic billionaires.
+
+- Number of Self-Made Billionaires: This pie chart displays the number of self-made billionaires.
+
+- Number of Billionaires by Age Group: This bar chart displays the number of billionaires by age group.
+
+- Total Wealth by Age Group: This bar chart displays the total wealth by age group.
+
+- Map of Billionaire Distribution by Country: This map displays the distribution of billionaires by country.
+
+- Number of Billionaires by Industry: This bar chart displays the number of billionaires by industry.
+
+- Total Wealth by Industry: This bar chart displays the total wealth by industry.
+
+
+
+Conclusion:
+
+This project provides a comprehensive overview of Forbes' list of billionaires for the year 2022. 
+By analyzing the relationships between various variables, users can gain a deeper understanding of the distribution of billionaires by gender, age, wealth, and various industries. 
+This project can be used as a tool for analyzing markets and wealth in different industries.
