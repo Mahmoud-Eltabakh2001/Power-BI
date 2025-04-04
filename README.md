@@ -4,7 +4,8 @@ Introduction:
 
 In the world of business and wealth, Forbes' list of billionaires is one of the most famous and influential lists. In this project, we used Power BI to analyze the data from Forbes' list of billionaires for the year 2022. The goal of this project is to provide a comprehensive overview of the distribution of billionaires by gender, age, wealth, and various industries.
 
-KPI Analysis
+
+KPI Analysis:
 
 
 - #Billionaires analysis
@@ -35,6 +36,7 @@ Overall AvgAge is currently at 64.21. 9 segments have significantly lower AvgAge
 - TotalWealth
 
 Overall TotalWealth is currently $12.7 trillion, most of it in the United States and Europe
+
 
 
 Cards:
