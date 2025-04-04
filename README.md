@@ -6,27 +6,36 @@ In the world of business and wealth, Forbes' list of billionaires is one of the 
 
 KPI Analysis
 
-#Billionaires analysis
+
+- #Billionaires analysis
 
 Overall #Billionaires is currently at 2668. #Billionaires for countryOfCitizenship United States and other segments are significantly higher than others.
 
-#MaleB analysis
+
+- #MaleB analysis
 
 Overall #MaleB is currently at 2341. #MaleB for countryOfCitizenship United States and other segments are significantly higher than others.
 
-#MaleB% analysis
+
+- #MaleB% analysis
 
 Overall #MaleB% is currently at 87.7%. #MaleB% for category Telecom is significantly higher than other segments, and #MaleB% for age 26 and 30 and other segments is significantly lower
-#FemaleB analysis
+
+
+- #FemaleB analysis
 
 Overall #FemaleB is currently at 311. #FemaleB for the country United States and other segments are significantly higher than others.
 
-AvgAge analysis
+
+- AvgAge analysis
 
 Overall AvgAge is currently at 64.21. 9 segments have significantly lower AvgAge than others, and 12 segments have significantly higher AvgAge
 
-TotalWealth
+
+- TotalWealth
+
 Overall TotalWealth is currently $12.7 trillion, most of it in the United States and Europe
+
 
 Cards:
 
