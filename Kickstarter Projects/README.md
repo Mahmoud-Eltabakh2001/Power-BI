@@ -35,3 +35,6 @@ This project uses Power BI to analyze Kickstarter data for the years 2016 and 20
 - The project uses Kickstarter data for the years 2016 and 2018.
 - Various measures and visualizations were created to analyze the data.
 - This project can serve as a template for analyzing similar data.
+
+# Data:
+https://www.kaggle.com/datasets/kemical/kickstarter-projects
